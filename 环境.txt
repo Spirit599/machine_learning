@@ -1,0 +1,10 @@
+
+1.Numpy库：
+
+2.Scipy库：
+
+3.matplotlib库：
+
+4.cython(ubuntu需要)
+
+5.sklearn库:
